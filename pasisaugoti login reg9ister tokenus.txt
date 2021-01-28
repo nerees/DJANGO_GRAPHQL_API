@@ -1,0 +1,29 @@
+{
+  "data": {
+    "register": {
+      "success": true,
+      "errors": null,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlc3RAZW1haWwuY29tIiwiZXhwIjoxNjExODQzMDE3LCJvcmlnSWF0IjoxNjExODQyNzE3fQ.Cn_Wxa2vl1o82S-qDu8TPqeYo5kVsYpSB28hrRPn7OE",
+      "refreshToken": "e87c1c9f679422cb59079ebc09c8c03010982ea6"
+    }
+  }
+}
+
+
+login
+
+{
+  "data": {
+    "tokenAuth": {
+      "success": true,
+      "errors": null,
+      "unarchiving": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlc3RAZW1haWwuY29tIiwiZXhwIjoxNjExODQzMTU5LCJvcmlnSWF0IjoxNjExODQyODU5fQ.jnqjOzcEI-RXuY10Icq_bxcU6HYgfA0PasboOV_-U0k",
+      "refreshToken": "64e9b6799db4fcdf6febbd646631c64888ec9ed7",
+      "user": {
+        "id": "VXNlck5vZGU6Mg==",
+        "username": "test"
+      }
+    }
+  }
+}
