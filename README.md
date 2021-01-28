@@ -1,6 +1,8 @@
 # DJANGO_GRAPHQL_API
 Initial boilerplate Django and Graphql api for create login users
 
+CHANGE ANG HIDE YOUR SECRET KEY - THIS ONE IS JUST AS EXAMPLE
+
 Just make migrations run local server create user and can try login for example with postman or any api client
 ```
 Local running server: http://127.0.0.1:8000/graphql
